@@ -1,0 +1,8 @@
+### Instructions
+To run the code, simply enter "py index.py" in the directory that index.py is located. When it's ran, you'll see the string "PASSED" printed 9 times, each on its own line. This is the output of some rudimentary tests I created; these tests align with the examples provided in the projoect descriptioon. I only imported Python's copy module, which should be built-in – that is, you don't need to have anything other than Python.
+```
+py index.py
+```
+
+### Assignment Modifications
+I appreciated this assignment. I found creating this short and neat "library", if that's what this would be called, really pleasant. There weren't any challenges to overcome which made it a nice way to wrap up the semester. I think it would be hard to automatically grade as different languages are allowed (which I think is great and should be kept for later students) if you don't have a script for each of those languages. However, if you do, perhaps you could expose some of this script to the students while they're testing their work, provided that the assignment is much more difficult. An interesting method for the future could be to see the changes, similar to how you can see staged files in Git! Maybe a method like db.changes() that prints said changes, perhaps with green, red, and yellow colors? I'd have fun working on that too! All in all, this was a fun assignment, and I'd make no changes. :-D
